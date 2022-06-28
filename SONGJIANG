@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T03:31:01.130Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GnIyEHSOfpXwxIrKpFKA" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T03:47:48.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Q5sR-8iJGuHmyGvljsr2" version="17.1.1" type="github">
   <diagram id="n3ZcNOLHEjB1RMYMCYXy" name="Page-1">
     <mxGraphModel dx="1186" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r3faO9J_sDER9V4KvIFa-2" value="私有云服务器 * 1" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mini_as400;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="564" width="43" height="62" as="geometry" />
+          <mxGeometry x="120" y="560" width="43" height="66" as="geometry" />
         </mxCell>
         <mxCell id="r3faO9J_sDER9V4KvIFa-3" value="疫情防控AI摄像头*1" style="shape=mxgraph.cisco.computers_and_peripherals.video_camera;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="550" width="67" height="98" as="geometry" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="r3faO9J_sDER9V4KvIFa-6" value="机柜" style="shape=mxgraph.cisco.hubs_and_gateways.hub;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="550" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r3faO9J_sDER9V4KvIFa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.233;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r3faO9J_sDER9V4KvIFa-9" target="r3faO9J_sDER9V4KvIFa-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r3faO9J_sDER9V4KvIFa-9" value="86寸广告投屏*1" style="shape=mxgraph.cisco.storage.diskette;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="574" width="51" height="50" as="geometry" />
