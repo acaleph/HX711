@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T03:28:29.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="abFkaWjP0E6H8okpXTeP" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T03:29:50.714Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YLe-2buda7EoYjsBBBOH" version="17.1.1" type="github">
   <diagram id="n3ZcNOLHEjB1RMYMCYXy" name="Page-1">
     <mxGraphModel dx="1186" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,9 +41,12 @@
             <mxPoint x="157" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3faO9J_sDER9V4KvIFa-16" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" target="r3faO9J_sDER9V4KvIFa-13" parent="1">
+        <mxCell id="r3faO9J_sDER9V4KvIFa-16" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="r3faO9J_sDER9V4KvIFa-13" parent="1" source="r3faO9J_sDER9V4KvIFa-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="217" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="250" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="r3faO9J_sDER9V4KvIFa-17" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" target="r3faO9J_sDER9V4KvIFa-13" parent="1">
@@ -82,6 +85,12 @@
             <mxPoint x="580" y="370" as="sourcePoint" />
             <mxPoint x="680" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r3faO9J_sDER9V4KvIFa-27" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
+          <mxGeometry x="234" y="200" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="r3faO9J_sDER9V4KvIFa-28" value="物联网智慧秤 *20" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" vertex="1" parent="1">
+          <mxGeometry x="234" y="250" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
