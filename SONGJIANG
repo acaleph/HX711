@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T02:49:24.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MVi27ivtrlDke-lieDSr" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T03:24:49.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cQG_w4fSgW3_GY0akae2" version="17.1.1" type="github">
   <diagram id="n3ZcNOLHEjB1RMYMCYXy" name="Page-1">
     <mxGraphModel dx="1186" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,14 +19,17 @@
         <mxCell id="r3faO9J_sDER9V4KvIFa-6" value="机柜" style="shape=mxgraph.cisco.hubs_and_gateways.hub;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="550" width="120" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="r3faO9J_sDER9V4KvIFa-7" value="华为WIFI中继器 * 4" style="shape=mxgraph.cisco.hubs_and_gateways.universal_gateway;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="560" width="54" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="r3faO9J_sDER9V4KvIFa-8" value="用户画像投屏* 20" style="shape=mxgraph.cisco.misc.tv;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="372" y="685" width="53" height="53" as="geometry" />
+          <mxGeometry x="200" y="110" width="53" height="53" as="geometry" />
         </mxCell>
         <mxCell id="r3faO9J_sDER9V4KvIFa-9" value="86寸广告投屏*1" style="shape=mxgraph.cisco.storage.diskette;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="574" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r3faO9J_sDER9V4KvIFa-11" value="华为WIFI中继器 * 4" style="shape=mxgraph.cisco.wireless.wireless_transport;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="568" width="77" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r3faO9J_sDER9V4KvIFa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r3faO9J_sDER9V4KvIFa-5" target="r3faO9J_sDER9V4KvIFa-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
